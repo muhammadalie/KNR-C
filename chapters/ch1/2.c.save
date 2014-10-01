@@ -1,0 +1,16 @@
+#include<stdio.h>
+main()
+{
+	int;
+	char;
+	c=getchar();
+while((c!=EOF){
+	c=getchar();
+	a[i]=c;
+	if(c=='/'){
+		++l;
+	if(l==2){
+	b[i]=c
+		
+	}
+
